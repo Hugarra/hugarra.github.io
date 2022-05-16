@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.49fe53ed.css",
-    "main.js": "/static/js/main.02697d17.js",
+    "main.js": "/static/js/main.5386ad4c.js",
     "static/js/787.768ac855.chunk.js": "/static/js/787.768ac855.chunk.js",
     "static/media/banner-ingenieria.jpg": "/static/media/banner-ingenieria.566c220c62f7c35ee46b.jpg",
     "index.html": "/index.html",
     "main.49fe53ed.css.map": "/static/css/main.49fe53ed.css.map",
-    "main.02697d17.js.map": "/static/js/main.02697d17.js.map",
+    "main.5386ad4c.js.map": "/static/js/main.5386ad4c.js.map",
     "787.768ac855.chunk.js.map": "/static/js/787.768ac855.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49fe53ed.css",
-    "static/js/main.02697d17.js"
+    "static/js/main.5386ad4c.js"
   ]
 }
