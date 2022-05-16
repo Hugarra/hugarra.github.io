@@ -1,25 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c67f054.chunk.css",
-    "main.js": "/static/js/main.5e9204f7.chunk.js",
-    "main.js.map": "/static/js/main.5e9204f7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3e35c79b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3e35c79b.js.map",
-    "static/js/2.b36db551.chunk.js": "/static/js/2.b36db551.chunk.js",
-    "static/js/2.b36db551.chunk.js.map": "/static/js/2.b36db551.chunk.js.map",
-    "static/js/3.1d69c081.chunk.js": "/static/js/3.1d69c081.chunk.js",
-    "static/js/3.1d69c081.chunk.js.map": "/static/js/3.1d69c081.chunk.js.map",
+    "main.css": "/static/css/main.49fe53ed.css",
+    "main.js": "/static/js/main.02697d17.js",
+    "static/js/787.768ac855.chunk.js": "/static/js/787.768ac855.chunk.js",
+    "static/media/banner-ingenieria.jpg": "/static/media/banner-ingenieria.566c220c62f7c35ee46b.jpg",
     "index.html": "/index.html",
-    "static/css/main.2c67f054.chunk.css.map": "/static/css/main.2c67f054.chunk.css.map",
-    "static/js/2.b36db551.chunk.js.LICENSE.txt": "/static/js/2.b36db551.chunk.js.LICENSE.txt",
-    "static/media/fiverr.03e61dd1.png": "/static/media/fiverr.03e61dd1.png",
-    "static/media/kisspng-jamal-mohamed-college-student-shri-ram-college-of-5ae0ce56451bf5.9906879715246823262831.07f7a91d.png": "/static/media/kisspng-jamal-mohamed-college-student-shri-ram-college-of-5ae0ce56451bf5.9906879715246823262831.07f7a91d.png",
-    "static/media/App.css": "/static/media/perfil.c5ae8a0e.jpeg"
+    "main.49fe53ed.css.map": "/static/css/main.49fe53ed.css.map",
+    "main.02697d17.js.map": "/static/js/main.02697d17.js.map",
+    "787.768ac855.chunk.js.map": "/static/js/787.768ac855.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e35c79b.js",
-    "static/js/2.b36db551.chunk.js",
-    "static/css/main.2c67f054.chunk.css",
-    "static/js/main.5e9204f7.chunk.js"
+    "static/css/main.49fe53ed.css",
+    "static/js/main.02697d17.js"
   ]
 }
